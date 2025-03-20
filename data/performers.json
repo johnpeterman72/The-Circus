@@ -1,0 +1,128 @@
+{
+  "performers": [
+    {
+      "id": 1,
+      "name": "Elena Skywalker",
+      "specialty": "Aerial Silks",
+      "experience_years": 12,
+      "nationality": "Ukrainian",
+      "age": 29,
+      "skills": ["Silks", "Trapeze", "Contortion"],
+      "active": true,
+      "bio": "Elena began her career as a gymnast before transitioning to circus arts. She has performed with major companies worldwide and specializes in breathtaking aerial choreography.",
+      "contact": {
+        "email": "elena@example.com",
+        "phone": "+380-555-1234",
+        "manager": "Circus Management Inc."
+      },
+      "performances": [
+        {
+          "show_id": 3,
+          "role": "Lead Aerialist",
+          "duration_minutes": 15
+        },
+        {
+          "show_id": 7,
+          "role": "Guest Performer",
+          "duration_minutes": 8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marco Magnifico",
+      "specialty": "Juggling",
+      "experience_years": 20,
+      "nationality": "Italian",
+      "age": 45,
+      "skills": ["Ball Juggling", "Club Juggling", "Fire Juggling", "Knife Throwing"],
+      "active": true,
+      "bio": "Marco comes from a multi-generational circus family. He holds the world record for juggling 12 balls simultaneously and has developed innovative techniques that have influenced jugglers worldwide.",
+      "contact": {
+        "email": "marco@example.com",
+        "phone": "+39-555-6789",
+        "manager": "Self-managed"
+      },
+      "performances": [
+        {
+          "show_id": 1,
+          "role": "Feature Juggler",
+          "duration_minutes": 12
+        },
+        {
+          "show_id": 5,
+          "role": "Opening Act",
+          "duration_minutes": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Fearless Fernandez Brothers",
+      "specialty": "High Wire",
+      "experience_years": 15,
+      "nationality": "Mexican",
+      "age": null,
+      "skills": ["High Wire", "Tightrope", "Balancing", "Pyramids"],
+      "active": true,
+      "bio": "This family act consists of three brothers who perform death-defying feats on the high wire without safety nets. Their seven-person pyramid is their signature move.",
+      "contact": {
+        "email": "fernandez@example.com",
+        "phone": "+52-555-9012",
+        "manager": "Thrills & Spills Agency"
+      },
+      "performances": [
+        {
+          "show_id": 2,
+          "role": "Headline Act",
+          "duration_minutes": 20
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Clara Clownface",
+      "specialty": "Clowning",
+      "experience_years": 18,
+      "nationality": "Canadian",
+      "age": 38,
+      "skills": ["Physical Comedy", "Mime", "Improvisation", "Balloon Animals"],
+      "active": true,
+      "bio": "Clara studied at the prestigious École Philippe Gaulier and brings sophisticated humor to traditional clowning. She specializes in interacting with audience members to create unique experiences.",
+      "contact": {
+        "email": "clara@example.com",
+        "phone": "+1-555-3456",
+        "manager": "Laugh Factory Inc."
+      },
+      "performances": [
+        {
+          "show_id": 1,
+          "role": "Interlude Performer",
+          "duration_minutes": 6
+        },
+        {
+          "show_id": 4,
+          "role": "Host",
+          "duration_minutes": 25
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Strongman Sergei",
+      "specialty": "Feats of Strength",
+      "experience_years": 22,
+      "nationality": "Russian",
+      "age": 42,
+      "skills": ["Weight Lifting", "Human Pyramid Base", "Car Pulling"],
+      "active": false,
+      "bio": "Before retiring in 2024, Sergei was known for his incredible feats of strength, including lifting a 500kg platform with 8 people standing on it. He now works as a strength coach.",
+      "contact": {
+        "email": "sergei@example.com",
+        "phone": "+7-555-7890",
+        "manager": "Historical talent only"
+      },
+      "performances": []
+    }
+  ]
+}
