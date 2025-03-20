@@ -1,0 +1,118 @@
+venues:
+  - id: 1
+    name: Grand Big Top
+    location:
+      city: New York
+      country: USA
+      address: 123 Broadway Ave
+      coordinates:
+        latitude: 40.7128
+        longitude: -74.0060
+    capacity: 1500
+    features:
+      - Climate controlled
+      - 360-degree seating
+      - VIP boxes
+      - Multiple rigging points
+    accessibility:
+      wheelchair_accessible: true
+      hearing_assistance: true
+      accessible_restrooms: true
+    contact:
+      manager: Jane Smith
+      email: jane@grandbigtop.example.com
+      phone: "+1-555-1234"
+    
+  - id: 2
+    name: Cirque Theater
+    location:
+      city: Paris
+      country: France
+      address: 45 Rue de Rivoli
+      coordinates:
+        latitude: 48.8566
+        longitude: 2.3522
+    capacity: 800
+    features:
+      - Traditional circus layout
+      - Orchestra pit
+      - Backstage museum
+    accessibility:
+      wheelchair_accessible: true
+      hearing_assistance: true
+      accessible_restrooms: true
+    contact:
+      manager: Pierre Durand
+      email: pierre@cirquetheater.example.com
+      phone: "+33-1-5551234"
+    
+  - id: 3
+    name: Modern Arena
+    location:
+      city: London
+      country: UK
+      address: 78 Oxford Street
+      coordinates:
+        latitude: 51.5074
+        longitude: -0.1278
+    capacity: 1200
+    features:
+      - Convertible space
+      - State-of-art lighting
+      - Digital projections
+      - Hydraulic stage
+    accessibility:
+      wheelchair_accessible: true
+      hearing_assistance: true
+      accessible_restrooms: true
+    contact:
+      manager: Elizabeth Brown
+      email: elizabeth@modernarena.example.com
+      phone: "+44-20-55512345"
+    
+  - id: 4
+    name: Family Circus Tent
+    location:
+      city: Berlin
+      country: Germany
+      address: 156 Unter den Linden
+      coordinates:
+        latitude: 52.5200
+        longitude: 13.4050
+    capacity: 650
+    features:
+      - Classic circus tent
+      - Child-friendly facilities
+      - Close-up seating
+    accessibility:
+      wheelchair_accessible: true
+      hearing_assistance: false
+      accessible_restrooms: true
+    contact:
+      manager: Hans Mueller
+      email: hans@familycircus.example.com
+      phone: "+49-30-55512345"
+    
+  - id: 5
+    name: Spectacular Stadium
+    location:
+      city: Sydney
+      country: Australia
+      address: 345 Harbor Drive
+      coordinates:
+        latitude: -33.8688
+        longitude: 151.2093
+    capacity: 2000
+    features:
+      - Waterfront location
+      - Multiple performance rings
+      - Indoor/outdoor capability
+      - Luxury amenities
+    accessibility:
+      wheelchair_accessible: true
+      hearing_assistance: true
+      accessible_restrooms: true
+    contact:
+      manager: Sarah Wong
+      email: sarah@spectacularstadium.example.com
+      phone: "+61-2-55512345"
